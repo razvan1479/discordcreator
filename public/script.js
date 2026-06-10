@@ -99,8 +99,8 @@ const BOTS_CONFIG = [
     gradient: ["#5865F2", "#57F287"]
   },
   {
-    clientId: "235088799074484224",
-    fallback: { name: "SoundWave", emoji: "🎵" },
+    clientId: "1511964855677223023",
+    fallback: { name: "Bot Muzică", emoji: "🎵" },
     description: {
       ro: "Player muzical de înaltă calitate cu suport pentru YouTube, Spotify, SoundCloud și playlist-uri custom.",
       en: "High-quality music player with support for YouTube, Spotify, SoundCloud and custom playlists."
@@ -109,7 +109,7 @@ const BOTS_CONFIG = [
     version: "v1.8.0",
     commands: ["/play", "/skip", "/queue", "/loop", "/filter", "/lyrics"],
     stats: { servers: "120", users: "35k", uptime: "99.7%" },
-    inviteUrl: "https://discord.com/oauth2/authorize?client_id=235088799074484224&permissions=8&scope=bot",
+    inviteUrl: "https://discord.com/oauth2/authorize?client_id=1511964855677223023",
     docsUrl: "#",
     gradient: ["#EB459E", "#FEE75C"]
   },
