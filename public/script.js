@@ -152,7 +152,7 @@ const translations = {
   ro: {
     pageTitle:    "Discord Universe — Servere & Boți",
     navServers:   "Servere", navBots: "Boți", navFeatures: "Features", navContact: "Contact",
-    heroBadge:    "Discord Developer · Activ 2024",
+    heroBadge:    "Discord Developer · Activ 2025",
     heroLine1:    "Servere și", heroLine2: "Boți de", heroLine3: "Discord",
     heroDesc:     "Servere construite cu pasiune, boți programați cu precizie. Fiecare proiect e o experiență unică, gândită până la ultimul detaliu.",
     heroCta1:     "Vezi Serverele", heroCta2: "Descoperă Boții →",
@@ -183,12 +183,12 @@ const translations = {
     ctaTitle: "Ai un proiect<br>în minte?",
     ctaDesc:  "Contactează-mă și construim împreună ceva remarcabil pe Discord.",
     ctaBtn1:  "Contactează-mă pe Discord", ctaBtn2: "✉ Email",
-    footerCopy: "© 2024 · Construit cu ❤ în România"
+    footerCopy: "© 2025 · Construit cu ❤ în România"
   },
   en: {
     pageTitle:    "Discord Universe — Servers & Bots",
     navServers:   "Servers", navBots: "Bots", navFeatures: "Features", navContact: "Contact",
-    heroBadge:    "Discord Developer · Active since 2024",
+    heroBadge:    "Discord Developer · Active since 2025",
     heroLine1:    "Discord", heroLine2: "Servers", heroLine3: "& Bots",
     heroDesc:     "Servers built with passion, bots crafted with precision. Every project is a unique experience, designed down to the last detail.",
     heroCta1:     "Browse Servers", heroCta2: "Explore Bots →",
@@ -219,7 +219,7 @@ const translations = {
     ctaTitle: "Got a project<br>in mind?",
     ctaDesc:  "Reach out and let's build something remarkable on Discord together.",
     ctaBtn1:  "Contact me on Discord", ctaBtn2: "✉ Email",
-    footerCopy: "© 2024 · Built with ❤ in Romania"
+    footerCopy: "© 2025 · Built with ❤ in Romania"
   }
 };
 
